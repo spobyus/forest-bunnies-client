@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:4:5-33
+		INJECTED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:6:5-37:19
+	android:extractNativeLibs
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:6:18-50
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:7:9-23:20
+	android:screenOrientation
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:14:13-49
+	android:launchMode
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:11:13-44
+	android:hardwareAccelerated
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:10:13-48
+	android:exported
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:13:13-36
+	android:resizeableActivity
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:12:13-47
+	android:configChanges
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:9:13-194
+	android:theme
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:15:13-54
+	android:name
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:8:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:18:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:20:13-22:40
+	android:value
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:22:17-37
+	android:name
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:21:17-57
+meta-data#unity.splash-mode
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:25:9-27:33
+	android:value
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:27:13-30
+	android:name
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:26:13-45
+meta-data#unity.splash-enable
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:28:9-30:36
+	android:value
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:30:13-33
+	android:name
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:29:13-47
+meta-data#unity.launch-fullscreen
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:31:9-33:37
+	android:value
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:33:13-34
+	android:name
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:32:13-51
+meta-data#unity.allow-resizable-window
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:34:9-36:37
+	android:value
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:36:13-34
+	android:name
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:35:13-56
+uses-feature#0x00030000
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:39:5-54
+	android:glEsVersion
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:39:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:40:5-42:36
+	android:required
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:42:9-33
+	android:name
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:41:9-55
+uses-feature#android.software.home_screen
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:43:5-65
+	android:name
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:43:19-62
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:44:5-46:36
+	android:required
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:46:9-33
+	android:name
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:45:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:47:5-49:36
+	android:required
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:49:9-33
+	android:name
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:48:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:50:5-52:36
+	android:required
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:52:9-33
+	android:name
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml:51:9-72
+uses-sdk
+INJECTED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/pch/UnityProjects/VeganAgain/test/unityLibrary/src/main/AndroidManifest.xml

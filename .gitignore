@@ -75,3 +75,7 @@ crashlytics-build.properties
 # Android
 /Android.*
 /Android/*
+
+# build
+/iOS_BurstDebugInformation_DoNotShip/*
+/iOS_BurstDebugInformation_DoNotShip_BurstDebugInformation_DoNotShip/*
